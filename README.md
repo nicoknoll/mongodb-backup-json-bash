@@ -1,4 +1,4 @@
-# MongoDB Backup as JSON with Bash
+# Backup for MongoDB Collections as JSON
 A bash script for exporting/importing collections as .json files from/to mongoDB.
 
 ## Usage
